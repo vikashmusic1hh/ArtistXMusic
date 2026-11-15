@@ -4,10 +4,10 @@
 #
 # Project      : ArtistBots API Telegram Music Bot
 # Powered By   : Artist
-# Channel      : https://t.me/artistbots
+# Channel      : https://t.me/navya_x_musicbot
 #
 # Plugin       : Group welcome card (image + info + colored buttons)
-# Location     : ArtistMusic/Artistbots/welcome.py
+# Location     : SMART BOY/SMART_OPll/welcome.py
 # ==========================================================
 
 import asyncio

@@ -7,7 +7,7 @@
 # Channel      : https://t.me/navya_x_musicbot
 #
 # Plugin       : Group welcome card (image + info + colored buttons)
-# Location     : SMART BOY/SMART_OPll/welcome.py
+# Location     : SMARTBOY/SMART_OPll/welcome.py
 # ==========================================================
 
 import asyncio
